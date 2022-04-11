@@ -32,7 +32,7 @@ Users should be able to:
 
 ### What I learned
 
-This project help me get better with CSS, plus gave me an opportunity to get hands-on experience with Vue's composition API.
+This project helped me get better with CSS, plus gave me an opportunity to get hands-on experience with Vue's composition API.
 
 ### Continued development
 
