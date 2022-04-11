@@ -1,13 +1,23 @@
 <template>
   <div class="two-col big-gap">
-    <img :src="country.flag" class="shadow" />
+    <img :src="country.flag" class="shadow" alt="flag" />
     <CountryDetails
       :country="country"
       :borders="borders"
       @select="(id) => $emit('select', id)"
     />
-    <img :src="worldMap" class="rounded shadow" v-if="hasSubregion" />
-    <img :src="regionMap" class="rounded shadow" v-if="hasSubregion" />
+    <img
+      :src="worldMap"
+      class="rounded shadow"
+      v-if="hasSubregion"
+      alt="world map"
+    />
+    <img
+      :src="regionMap"
+      class="rounded shadow"
+      v-if="hasSubregion"
+      alt="region map"
+    />
   </div>
 </template>
 

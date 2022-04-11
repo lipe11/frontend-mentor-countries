@@ -1,6 +1,6 @@
 <template>
   <div class="card shadow rounded" @click="$emit('select', country.id)">
-    <img :src="country.flag" />
+    <img :src="country.flag" alt="flag" />
     <div class="details">
       <h2 class="title">{{ country.name }}</h2>
       <p><strong>Population:</strong> {{ country.population }}</p>
