@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site](https://your-live-site-url.com)
+- [Live Site](https://unique-parfait-6dbfc1.netlify.app/)
 
 ## My process
 
@@ -41,7 +41,3 @@ Need to learn more about Semantic HTML
 ## Author
 
 - Frontend Mentor - [@lipe11](https://www.frontendmentor.io/profile/lipe11)
-
-## Acknowledgments
-
-Credits to [Anas](https://www.frontendmentor.io/profile/redshift14), his solution gave me idea to include a map.
